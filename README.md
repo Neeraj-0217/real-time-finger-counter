@@ -33,8 +33,7 @@ The **Real-Time Hand and Finger Counter** leverages cutting-edge computer vision
 
 ## 📷 Demo
 
-> *Coming Soon*  
-
+> *Coming Soon*
 
 ---
 
@@ -60,11 +59,10 @@ The **Real-Time Hand and Finger Counter** leverages cutting-edge computer vision
 
 - Python 3.7+
 - Install required packages:
-  ```bash
-  pip install opencv-python mediapipe numpy
-````
 
----
+```bash
+pip install opencv-python mediapipe numpy
+````
 
 ### ▶️ Run the App
 
@@ -72,7 +70,7 @@ The **Real-Time Hand and Finger Counter** leverages cutting-edge computer vision
 python finger_counter.py
 ```
 
-The webcam window will open, and the app will start counting your fingers in real-time!
+The webcam window will open, and the app will start counting your fingers in real time!
 
 ---
 
@@ -82,8 +80,8 @@ The webcam window will open, and the app will start counting your fingers in rea
 finger_counter/
 │
 ├── finger_counter.py           # Main application script
-├── HandTrackingModule.py       # Main Tracking module
-├── requirements.txt            # Python dependencies (optional)
+├── HandTrackingModule.py       # Main tracking module
+├── requirements.txt            # Python dependencies
 ├── assets/                     # Screenshots, demo GIFs, etc.
 └── README.md                   # Project overview
 ```
@@ -116,5 +114,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 If you found this helpful or interesting, give it a ⭐ to support the project!
 
-```
+---
 
