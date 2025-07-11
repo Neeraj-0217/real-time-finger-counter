@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE files (PyCharm, VSCode, etc.)
+.idea/
+.vscode/
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Python egg files
+*.egg-info/
+*.egg
+
+# Model or cache files
+*.h5
+*.keras
+*.pth
+*.pkl
+*.tflite
+.cache/
