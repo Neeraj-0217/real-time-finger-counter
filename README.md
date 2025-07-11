@@ -64,6 +64,8 @@ The **Real-Time Hand and Finger Counter** leverages cutting-edge computer vision
   pip install opencv-python mediapipe numpy
 ````
 
+---
+
 ### ▶️ Run the App
 
 ```bash
